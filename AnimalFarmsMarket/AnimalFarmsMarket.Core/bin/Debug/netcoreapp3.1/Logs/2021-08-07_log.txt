@@ -1,0 +1,2 @@
+2021-08-07 08:49:32.9397 FATAL|Microsoft.AspNetCore.Hosting.Diagnostics| Application startup exception
+2021-08-07 21:57:55.4674 FATAL|Microsoft.AspNetCore.Hosting.Diagnostics| Application startup exception
